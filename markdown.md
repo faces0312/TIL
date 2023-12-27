@@ -56,8 +56,9 @@ Faces_GitHub [click](https://github.com/faces0312)
 <br>
 
 <!-- Image -->
-![image description](image_link)
-<!-- 이미지 링크가 뭐임 -->
+![asdf](https://github.com/faces0312/TIL/assets/112464553/68e95879-b7d8-4c42-a711-2f04e06e2037)
+
+<!-- 이미지 링크 얻는 법 깃허브에 issues란에  넣으면 마크다운언어로 나온다-->
 <br>
 <br>
 
