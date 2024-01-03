@@ -63,7 +63,7 @@
 
 <br>
 
-- 고속도로
+- 고속도로라고 생각하면 편함
 ![image](https://github.com/faces0312/TIL/assets/112464553/9bd3d0e5-707f-4b08-91e7-ddcc5447f57d)
 
 
